@@ -7,7 +7,7 @@ In Python, a variable is a name that is used to refer to a value stored in the c
 
 To create a variable in Python, you use the assignment operator (=) to assign a value to the variable. For example:
 
-![image.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ece8d17d-64ba-4b69-9504-a3edcb91b468/image.png)
+x = 5
 
 In this example, the variable **`x`** is assigned the value **`5`**. You can then use the variable **`x`** in your program to refer to the value **`5`**.
 
